@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry. 
 Software engineering is the systematic application of engineering principles to software development, it encompasses the entire software lifecycle, including requirement analysis, design, implementation, testing and maintenance. Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -56,18 +56,33 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 - Project Manager: Oversees the planning, execution and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+- Integrated Development Environments consolidate tools such as code editors, compilers, debuggers and build automation in one platform, facilitating a smoother workflow. Features like syntax highlighting, code completion and error detection help developers write code more efficiently and accurately. Integrated debugging tools allow for easier identification and resolution of bugs during the development process. (e.g., Visual Studio: widely used for developing applications in languages like C#, VB.NET and C++. It provides robust debugging, testing and deployment features).
+- Version Control Systems enables multiple developers to work on the same codebase simultaneously without conflicts, tracking changes and merging contributions effectively. It allows developers to track revisions, view the history of changes and revert to previous versions if necessary, ensuring a safer development process. Developers can create branches for new features or experiments, facilitating parallel development while keeping the codebase stable, (e.g., Git: A VCS that is highly popular for its flexibility, allowing local repositories and easy branchingand merging. It is commonly used with platforms like GitHub and GitLab for collaboration).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Software Engineers encounter various challenges throughout the development process, including:
+- Changing requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+- Tight deadlines: Pressure to develop software products on schedule can result in rushed development and compromised quality.
+- Technical debt: Accrued from shortcuts or suboptimal solutions, technical debts can impede future development efforts and increase maintenance costs.
+  Strategies for overcoming challenges:
+- Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks and regular reassesment of project goals and 
+  timeslines. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Testing is a critical aspect of Quality Assurance and involves various types of testing, including:
+- Unit testing: Testing individual components or modules of software.
+- Integration testing: Testing interactions between different components or subsystems.
+- System testing: Testing the entire software system as a whole.
+- Acceptance testing: Testing the software against user requirements to ensure it meets user needs.
+Importance of quality control: Quality control measures such as code reviews, automated testing and continuous integration help identify and fix defects early in the development process leading to higher quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is about crafting questions or statements to get the best possible responses from AI models. Prompt engineering is important in interacting with AI models because it helps avoid getting confused answers by making your questions clear and specific, so the AI understands exactly what you need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Vague prompt: "Tell me about cats"
+- Clear, specific and concise prompt: "Tell me about the history of domestic cats"
+The improved prompt is more effective because one will get a more focused response, the vague prompt on ther hand will give a general answer.
